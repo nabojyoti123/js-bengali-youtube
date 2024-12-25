@@ -3,27 +3,27 @@
 //alert(3 + 3) //we are not using nodejs, not browser 
 
 console.log(3 
-    +3) // code readibility should be high
+    +
+     3) // code readability should be high
 
-console.log("nabojyoti")
-
-let name="nabojyoti"
-let age=20;
-let isloggedin=false;
-let state =null;
+console.log("Nabojyoti")
 
 
+let name = "Nabojyoti"
+let age = 18
+let isLoggedIn = false
+let state;
 
-/*primitive data type*/
 // number => 2 to power 53
-// bigint 
+// bigint
 // string => ""
 // boolean => true/false
 // null => standalone value
-// undefined =>
-// symbol => unique 
+// undefined => 
+// symbol => unique
+
 
 // object
 
-console.log(typeof undefined); //undefined
-console.log(typeof null); //object
+console.log(typeof undefined); // undefined
+console.log(typeof null); // object
